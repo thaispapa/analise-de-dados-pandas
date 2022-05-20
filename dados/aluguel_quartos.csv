@@ -1,0 +1,37 @@
+Tipo;Bairro;Quartos;Vagas;Suites;Area;Valor;Condominio;IPTU;Valor m2;Tipo Agregado
+Apartamento;Recreio dos Bandeirantes;4;2;2;160;1900.0;830.0;0.0;11.88;Apartamento
+Casa;Campo Grande;4;1;4;100;1600.0;0.0;0.0;16.0;Casa
+Casa;Engenho de Dentro;4;3;0;120;1500.0;0.0;0.0;12.5;Casa
+Casa de Vila;Méier;4;0;1;85;1600.0;0.0;0.0;18.82;Casa
+Casa;Campo Grande;4;1;0;140;1700.0;0.0;0.0;12.14;Casa
+Apartamento;Campo Grande;4;2;1;115;1900.0;500.0;0.0;16.52;Apartamento
+Apartamento;Recreio dos Bandeirantes;4;2;1;105;1900.0;1492.0;205.0;18.1;Apartamento
+Apartamento;Pechincha;4;1;2;178;1900.0;1100.0;270.0;10.67;Apartamento
+Casa;Riachuelo;4;0;1;100;1800.0;0.0;40.0;18.0;Casa
+Casa;Méier;4;1;1;125;1900.0;0.0;0.0;15.2;Casa
+Apartamento;Recreio dos Bandeirantes;4;2;3;280;1800.0;1400.0;580.0;6.43;Apartamento
+Apartamento;Recreio dos Bandeirantes;4;3;2;250;1500.0;1380.0;700.0;6.0;Apartamento
+Apartamento;Recreio dos Bandeirantes;4;2;1;160;1900.0;1093.0;183.0;11.88;Apartamento
+Apartamento;Recreio dos Bandeirantes;4;2;1;160;1900.0;1038.0;158.0;11.88;Apartamento
+Casa de Condomínio;Taquara;4;1;0;110;1750.0;550.0;993.0;15.91;Casa
+Casa;Santo Cristo;5;0;0;85;1200.0;0.0;0.0;14.12;Casa
+Apartamento;Leme;4;0;1;185;1800.0;2000.0;270.0;9.73;Apartamento
+Apartamento;Recreio dos Bandeirantes;4;2;1;160;1900.0;930.0;150.0;11.88;Apartamento
+Apartamento;Camorim;4;1;1;96;1350.0;747.0;0.0;14.06;Apartamento
+Apartamento;Barra da Tijuca;4;3;4;148;1600.0;1766.0;0.0;10.81;Apartamento
+Casa;Praça Seca;4;1;1;128;1600.0;0.0;228.0;12.5;Casa
+Casa de Condomínio;Freguesia (Jacarepaguá);4;2;1;120;1800.0;195.0;30.0;15.0;Casa
+Casa;Pedra de Guaratiba;4;1;0;100;1300.0;0.0;0.0;13.0;Casa
+Apartamento;Campo Grande;4;2;2;160;1900.0;880.0;0.0;11.88;Apartamento
+Apartamento;Recreio dos Bandeirantes;4;2;2;160;1900.0;912.0;160.0;11.88;Apartamento
+Apartamento;Rio Comprido;4;1;0;110;1650.0;500.0;0.0;15.0;Apartamento
+Casa;Campo Grande;4;3;0;120;1700.0;0.0;0.0;14.17;Casa
+Casa;Campo Grande;4;0;1;366;1890.0;0.0;208.0;5.16;Casa
+Casa;Campo Grande;4;0;0;159;1800.0;0.0;0.0;11.32;Casa
+Casa;Braz de Pina;4;1;0;99;1800.0;0.0;0.0;18.18;Casa
+Casa;Campo Grande;4;1;3;100;1600.0;0.0;0.0;16.0;Casa
+Casa;Campo Grande;4;1;2;180;1850.0;300.0;0.0;10.28;Casa
+Apartamento;Campo Grande;4;1;1;80;1600.0;950.0;0.0;20.0;Apartamento
+Apartamento;Barra da Tijuca;4;3;4;148;1500.0;1600.0;196.0;10.14;Apartamento
+Apartamento;Recreio dos Bandeirantes;4;2;2;160;1900.0;1038.0;0.0;11.88;Apartamento
+Casa;Campo Grande;4;2;0;120;1600.0;0.0;0.0;13.33;Casa
